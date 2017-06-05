@@ -2,7 +2,7 @@ body {
 	width: 100%;
 	max-width: 1000px;
 	margin: 0 auto;
-	background-color:lightseagreen;
+	background-color:  #336699;
     font-family: 'Times New Roman';
     font-size: 15;
 }
@@ -36,7 +36,7 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 2.45em;
 }
 
 h2 {
@@ -67,8 +67,9 @@ figure {
 }
 
 .captions {
-	font-size: .7em;
-    padding: 6px
+	font-size: .8em;
+    padding: 6px;
+    text-align: center;
 
 }
 
