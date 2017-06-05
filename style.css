@@ -1,0 +1,89 @@
+body {
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+	background-color:lightcyan;
+    font-family: 'Times New Roman';
+}
+
+#headerimage {
+    width:1215px;
+    height: 430px
+
+}
+header,
+main,
+footer {
+	background-color: lightgray;
+	font-size: 1em;
+    padding: 120px;
+}
+
+header {
+	padding: 1em 0;
+}
+
+header h1 {
+	text-align: left;
+    font-family: 'Trebuchet MS';
+    margin: 5px
+    
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	padding: 0.5em;
+}
+
+section {
+	margin: 1.875em 0;
+}
+
+section:first-child {
+	margin-top: 0;
+}
+
+section:last-child {
+	margin-bottom: 0;
+}
+
+
+p {
+	padding: .7em;
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+.captions {
+	font-size: .7em;
+    padding: 6px
+
+}
+
+footer {
+	text-align: center;
+	padding: .2em;
+    margin: 0em auto;
+    font-size: .7em;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+#videoofwhales {
+    width: 100%;
+    max-width: 100%;
+    
+}
